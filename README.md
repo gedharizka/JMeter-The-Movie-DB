@@ -56,13 +56,22 @@ Loop Count 10
 #### Add Rating
 
 ```http
-  GET /3/movie/${id}/rating
+  POST /3/movie/${id}/rating
+```
+Body req
+```bash
+  {
+    "value":8.0
+  }
+
 ```
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `Authorization` | `Bearer` | **Required**. Your Token |
 | `ID` | `String` | **Required**. Id movie |
+
+
 
 #### Video Performace Test
 
