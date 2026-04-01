@@ -11,6 +11,9 @@
 
 ![Screenshot 2023-10-26 221955 - Thread Group](https://github.com/gedharizka/JMeter-The-Movie-DB/assets/23609971/211d7aa0-dc3a-4c6d-8fd6-0edf894b1f67)
 
+![Tree Result](/doc/TreeResult-Jmeter.png)
+![Result in table](/doc/Resultintable-Jmeter.png)
+
 ### Thread Group Setting
 
 ```javascript
